@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Participation Companion"
+title = "StudyBuddy"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "partcomp-shadow.png"
+hero_media = "BMBF_gefoerdert_vom_deutsch_CMYK.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,7 +48,7 @@ hero_media = "partcomp-shadow.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span>Projekttitel: "PartComp: A Virtual Companion to support Civic Participation"</span>'
+  label = '<span>Durch das Bundesinstitut für Berufsbildung gefördertes Verbundprojekt aus dem Innovationswettbewerb INVITE (Förderzeitraum: 01.05.2021 - 30.04.2024; Förderkennzeichen: 21INVI06)</span>'
 +++
 
-Ein KI-basierter, virtueller Companion zur Unterstützung der bürgerlichen Partizipation
+Ein KI-basierter, virtueller Companion für die berufliche Weiterbildung
