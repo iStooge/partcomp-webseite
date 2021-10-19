@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Eigenschaften"
-subtitle = "Das macht den StudyBuddy aus"
+subtitle = "Das macht den Participation Companion aus"
 
 # Showcase features.
 #
@@ -23,14 +23,14 @@ subtitle = "Das macht den StudyBuddy aus"
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "Adaption"
-  description = "Anpassung an individuelle Bedürfnisse wie Lernstile und -präferenzen"  
+  name = "Theoretisch Fundiert"
+  description = "Gestaltung basierend auf theoretischen Grundlagen"  
 
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
   name = "Kollaboration"
-  description = "virtueller Lern-Freund, der nicht nur kommuniziert, sondern mit den Lernenden kollaboriert"
+  description = "Ein virtueller Companion, der nicht nur kommuniziert, sondern mit den Partizipierenden kollaboriert"
 
 # Uncomment to use emoji icons.
 # [[feature]]

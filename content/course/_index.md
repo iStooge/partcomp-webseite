@@ -7,23 +7,17 @@ icon_pack: fas
 
 ## Beschreibung
 
-Das auf drei Jahre angelegte Projekt StudyBuddy erstreckt sich von einer Recherchephase über die nutzerzentrierte Erhebungsphase der Anforderungen der Lernenden in Workshops bis hin zur tatsächlichen Konzeption und Programmierung des virtuellen Lernbegleiters. Dabei verfügen die Projektpartner über ein umfangreiches Kompetenzportfolio dank langjähriger Erfahrungen in der Gestaltung personennaher Dienstleistungen, der Durchführung von nutzerzentrierten Design-Thinking Workshops, der prototypischen Konzeption virtueller Companions sowie der praktischen Erfahrungen in der Lehre und Weiterbildung und der guten Vernetzung zu weiteren Partnern mit Expertenwissen aus der Praxis in relevanten Fachgebieten (z.B. Chatbots und Künstlicher Intelligenz). 
+Demokratische Gesellschaften basieren auf einer Beteiligung ihrer Bürger:innen an Entscheidungen, die das öffentliche Leben betreffen. Mit der zunehmenden Durchdringung aller Lebensbereiche mit digitalen Technologien sind auch neue Möglichkeiten zur Partizipation entstanden - beispielsweise auf digitalen Plattformen, die Bürger:innen zur Ideenfindung oder sogar zur Umsetzung eigener Projekte aufrufen, um gemeinsam das Stadtleben zu gestalten.
+
+Dem steht entgegen, dass nicht alle Bürger:innen gleichermaßen in der Lage sind, diese neuen Technologien zu nutzen. Mit dem Participation Companion entsteht ein digitales Assistenzsystem, ähnlich einem Chatbot, das Bürger:innen individuell in ihren Partizipationsaktivitäten unterstützt und sich dabei, gleich einem Gefährten (Companion) kooperativ genau auf ihre Bedürfnisse einstellt. Bürger:innen können dem Participation Companion Fragen stellen, wenn sie Hilfe brauchen, aber der Participation Companion wird auch von selbst aktiv und schlägt seinem menschlichen Partner beispielsweise Partizipationsmöglichkeiten vor.
+
+In dieser Forschung zum Participation Companion sollen zunächst zunächst aus sozialwissenschaftlicher Perspektive die Hemmnisse und Schwierigkeiten von Bürger:innen in der digitalen Partizipation erarbeitet werden. Parallel wird analysiert, welche Einsatzmöglichkeiten derzeitige auf künstlicher Intelligenz basierten Technologien für die digitale Partizipation bieten, um eine natürlich-sprachliche Interaktionen mit den Nutzer:innen und partnerschaftliche Beziehungen zur Unterstützung in der Partzipation zu gestalten. Im Kern des Projektes wird dann gemeinsam mit Bürger:innen daran geforscht, wie einzelne Aspekte des Participation Companion auf digitalen Plattformen umgesetzt werden können. 
+
+Dazu arbeitet das Team des Instituts für Wirtschaftsinformatik der TU Braunschweig mit zwei Projekten zusammen, die bereits (digitale) Partizipation leben: dem Projekt Sandkasten, das Studierenden der TU Braunschweig ermöglicht, ihr eigenes Campusleben zu gestalten, und dem Leibniz-Wissenschaftscampus Postdigitale Partizipation, der unter anderem anstrebt, Bürger:innen an der Gestaltung ihres Stadtlebens teilhaben zu lassen.
 
 ## Kernziele
 
-- den Lernerfolg erhöhen 
-- frühzeitig Wissens- und Verständnislücken entdecken und beheben
-- die Abbruchquote in Weiterbildungsmaßnahmen senken
-- den Wissensgewinn der Lernenden zu unterstützen 
-
-## Beitrag zu den Wettbewerbszielen von INVITE
-
-- Schaffung einer KI-basierten Gesamtinfrastruktur aus intelligenten Services zur Lernbegleitung in der Weiterbildung
-- Beitrag zum individualisierten, virtuellen Lernen mittels geschickter, dialogbasierter Interaktion mit dem Lernenden und seiner individuellen Situation, Bedürfnisse und Lernpräferenzen
-- Anpassung an individuelle Gewohnheiten und Lebensumständen in Form eines virtuellen Kooperationspartners beim Lernen
-- Qualitative Verbesserung der bei den Verbundpartnern schon bestehenden Lernplattformen in der Weiterbildung durch Integration des StudyBuddies
-- Erhöhung der Weiterbildungsbeteiligung mit dem Ziel den individuellen Lernerfolg zu erhöhen
-- Sicherstellung der Nachnutzbarkeit der Ergebnisse für externe Plattformen mit dem Ziel, Anwendungsmöglichkeiten für eine breite Zielgruppe zu schaffen
+- ...
 
 ## Forschungsphasen
 

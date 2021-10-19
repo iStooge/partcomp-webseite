@@ -19,7 +19,7 @@ header:
 Institut für Wirtschaftsinformatik, Abteilung Informationsmanagement, <br>
 Prof. Dr. Susanne Robra-Bissantz <br>
 
-Verbundprojektkoordination: Dr. Ricarda Schlimbach
+Forschungsgruppenleitung: Dr. Timo Strohmann
 
 ## Kontakt
 
