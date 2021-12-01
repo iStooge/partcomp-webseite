@@ -7,7 +7,7 @@ featured: false
 authors:
   - Daria Vogel
 image:
-  filename: titelbildblogartikelpraxisrech.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
