@@ -1,5 +1,5 @@
 ---
-title: KI-Companions – Praxisrecherche
+title: Künstliche Intelligenz – dein neues Teammitglied? Eine Praxisrecherche.
 subtitle: ""
 date: 2021-11-29T08:56:35.182Z
 draft: true
@@ -7,7 +7,7 @@ featured: false
 authors:
   - Daria Vogel
 image:
-  filename: ""
+  filename: titelbildblogartikelpraxisrech.png
   focal_point: Smart
   preview_only: false
 ---
@@ -41,4 +41,4 @@ Als digitaler Assistent soll KI bei der digitalen Partizipationsplattform von So
 
 ![Screenshot SocialSynergy Plattform](screenshot-2021-06-17-at-13.40.35.png "Social Synergy Startseite")
 
-Insgesamt gibt es schon einige Plattformen und Anwendungen, die digitale Partizipation ermöglich und teilweise auch mithilfe von KI. Ebenso ist es bereits möglich, eine KI als Companion zu entwickeln. In Zusammenhang mit Partizipation gibt es die Anwendung von KI aber noch nicht in diesem Maße. Auch Silvan Vollmer von SocialSynergy erzählte uns in einem Gespräch, dass die Entwicklung der KI für ihre Plattform erst mal verschoben wurde, da es sich als größere Herausforderung herausstelle, als gedacht. Ein Grund dafür könnten auch fehlende Mittel in den Partizipationsbereichen sein, ähnlich wie es bei viele Projekten ist die nicht für den freien Markt entwickelt werden. Das macht das Participation Companion Projekt besonders interessant.
+Insgesamt gibt es schon einige Plattformen und Anwendungen, die digitale Partizipation ermöglich und teilweise auch mithilfe von KI. Ebenso ist es bereits möglich, eine KI als Companion zu entwickeln. In Zusammenhang mit Partizipation gibt es die Anwendung von KI aber noch nicht in diesem Maße. Auch Silvan Vollmer von SocialSynergy erzählte uns in einem Gespräch, dass die Entwicklung der KI für ihre Plattform viele Herausforderungen mit sich bringe. Ein Grund dafür könnten auch fehlende Mittel in den Partizipationsbereichen sein, ähnlich wie es bei viele Projekten ist die nicht für den freien Markt entwickelt werden. Das macht das Participation Companion Projekt besonders interessant.
