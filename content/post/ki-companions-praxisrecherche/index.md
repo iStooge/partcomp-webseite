@@ -1,41 +1,24 @@
 ---
-title: Künstliche Intelligenz – dein neues Teammitglied? Eine Praxisrecherche.
-subtitle: In diesem Post teilen wir mit euch, was wir vorhaben.
-
-# Summary for listings and search engines
-summary: Mit dem Participation Companion entsteht ein digitales Assistenzsystem, ähnlich einem Chatbot, das Bürger:innen individuell in ihren Partizipationsaktivitäten unterstützt und sich dabei, gleich einem Gefährten (Companion) kooperativ genau auf ihre Bedürfnisse einstellt. Bürger:innen können dem Participation Companion Fragen stellen, wenn sie Hilfe brauchen, aber der Participation Companion wird auch von selbst aktiv und schlägt seinem menschlichen Partner beispielsweise Partizipationsmöglichkeiten vor.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-11-29T08:56:35.182Z"
-
-# Date updated
-lastmod: "2021-11-29T08:56:35.182Z"
-
-# Is this an unpublished draft?
+summary: Mit dem Participation Companion entsteht ein digitales Assistenzsystem,
+  ähnlich einem Chatbot, das Bürger:innen individuell in ihren
+  Partizipationsaktivitäten unterstützt und sich dabei, gleich einem Gefährten
+  (Companion) kooperativ genau auf ihre Bedürfnisse einstellt. Bürger:innen
+  können dem Participation Companion Fragen stellen, wenn sie Hilfe brauchen,
+  aber der Participation Companion wird auch von selbst aktiv und schlägt seinem
+  menschlichen Partner beispielsweise Partizipationsmöglichkeiten vor.
 draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-## Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-## image:
- ## caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/3eAByt3-eOw)"
- ## focal_point: ""
-  ##placement: 2
-  ##preview_only: false
-
 authors:
   - daria-vogel
-
+lastmod: 2021-11-29T08:56:35.182Z
+title: Künstliche Intelligenz – dein neues Teammitglied? Eine Praxisrecherche.
+subtitle: ""
+date: 2021-11-29T08:56:35.182Z
+featured: false
 tags:
   - PartComp
-
 categories:
   - PartComp
+projects: []
 ---
 
 Mit einer durch künstlichen Intelligenz unterstützte Software befreundet sein? Eine KI-unterstützte Technologie als Liebespartner? Oder sogar durch KI-unterstützte Bürgerpartizipation?
