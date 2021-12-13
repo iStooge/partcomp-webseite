@@ -7,6 +7,8 @@ image:
   filename: screenshot-2021-11-24-at-18.42.40.png
   focal_point: Smart
   preview_only: false
+  alt_text: Titelbild Workshop Gemeinsam Gemeinsam Abbildung des Miroboards mit
+    Erfolgsfaktoren
 ---
 Am 24.11.2021 hielten wir, das Team PartComp, einen Online-Workshop im Rahmen der Participation Week des Leibniz-Wissenschaftscampus Braunschweig ab. Der Workshop trug den Titel:
 
