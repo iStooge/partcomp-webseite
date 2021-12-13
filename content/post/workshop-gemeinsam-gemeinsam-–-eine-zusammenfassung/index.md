@@ -12,9 +12,7 @@ image:
 ---
 Am 24.11.2021 hielten wir, das Team PartComp, einen Online-Workshop im Rahmen der Participation Week des Leibniz-Wissenschaftscampus Braunschweig ab. Der Workshop trug den Titel:
 
-*“**Gemeinsam gemeinsam:** Projekte, Vereine und interessierte Bürger:innen erkunden die*\
-*Geheimnisse einer erfolgreichen Zusammenarbeit von Menschen zur Verbesserung ihres Lebens –*\
-*zum Beispiel in der Stadt.”*
+*“**Gemeinsam gemeinsam:** Projekte, Vereine und interessierte Bürger:innen erkunden die Geheimnisse einer erfolgreichen Zusammenarbeit von Menschen zur Verbesserung ihres Lebens – zum Beispiel in der Stadt.”*
 
 Das Ziel des Workshops war es also, Personen aus unterschiedlichsten Partizipationsumfeldern zusammenzubringen und mit ihnen über Erfolgsfaktoren der Partizipation und ihre Erfahrungen zu sprechen und zu diskutieren. Insgesamt nahmen 11 Personen teil. Es waren Personen von [Hey Alter](https://heyalter.com/ "https\://heyalter.com/"), [Fridays for Future](https://fff-braunschweig.de/ "https\://fff-braunschweig.de/"), [Nexus Braunschweig](https://www.dasnexus.de/ "https\://www.dasnexus.de/"), gemeinschaftlichen Gartenprojekten, [Sandkasten der TU Braunschweig](https://www.sandkasten.tu-braunschweig.de/ "https\://www.sandkasten.tu-braunschweig.de/"), [Grüne Finger aus Osnabrück](https://gruene-finger.de/projekt/ "https\://gruene-finger.de/projekt/"), [Amnesty International](https://www.amnesty.de/ "https\://www.amnesty.de/"), [Foodsharing](https://foodsharing.de/ "https\://foodsharing.de/") und dem [Georg-Eckert-Institut](http://www.gei.de/home.html "http\://www.gei.de/home.html") anwesend. Nach einer Einleitung und Vorstellung der einzelnen Teilnehmenden, führte Dr. Susanne Robra-Brissantz in Form eines kurzen Impulsvortrags in das Thema “6 Erfolgsfaktoren für Partizipation” ein. Diese umfassten:
 
@@ -33,8 +31,6 @@ Für Gruppe 2 waren Onboardings von (Neu-)Mitgliedern ein wichtiger Teil, um Par
 Gruppe 3 sprach in Bezug auf die Selbstwirksamkeit davon, dass diese Ressourcen, Freiraum und einen verhandelbaren Rahmen benötigt. Ebenso sollte das Handeln der Gruppe ein Ziel haben, das auch (haptisch) erfahrbar sein sollte. Es wurde von Verantwortungsabgabe und Loslassen gesprochen, wofür Ergebnisoffenheit ein wichtiger Punkt sei. Damit Personen selbstermächtigt handeln können, sei Vertrauen in die Gruppe und ein Gemeinschaftsgefühl wichtig.
 
 ![Darstellung Zusammenfassung Ergebnisse Kleingruppen auf Miroboard](screenshot-2021-11-29-at-11.26.38.png "Zusammenfassung Ergebnisse Kleingruppen")
-
-
 
 Die Ergebnisse der Kleingruppensessions wurden auf einem Miroboard gesammelt. Nach der Vorstellung der Ergebnisse war Raum für Anmerkungen, Austausch und Diskussion, welcher auch produktiv genutzt wurde. Die wichtigsten Punkte aus dem Workshop wurden in einem Graphical Recording zusammengetragen.
 
