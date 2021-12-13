@@ -1,16 +1,43 @@
 ---
 title: Künstliche Intelligenz – dein neues Teammitglied? Eine Praxisrecherche.
-subtitle: ""
-date: 2021-11-29T08:56:35.182Z
-draft: true
+subtitle: In diesem Post teilen wir mit euch, was wir vorhaben.
+
+# Summary for listings and search engines
+summary: Mit dem Participation Companion entsteht ein digitales Assistenzsystem, ähnlich einem Chatbot, das Bürger:innen individuell in ihren Partizipationsaktivitäten unterstützt und sich dabei, gleich einem Gefährten (Companion) kooperativ genau auf ihre Bedürfnisse einstellt. Bürger:innen können dem Participation Companion Fragen stellen, wenn sie Hilfe brauchen, aber der Participation Companion wird auch von selbst aktiv und schlägt seinem menschlichen Partner beispielsweise Partizipationsmöglichkeiten vor.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2021-11-29T08:56:35.182Z"
+
+# Date updated
+lastmod: "2021-11-29T08:56:35.182Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
 featured: false
+
+# Featured image
+## Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+## image:
+ ## caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/3eAByt3-eOw)"
+ ## focal_point: ""
+  ##placement: 2
+  ##preview_only: false
+
 authors:
-  - Daria Vogel
-image:
-  filename: titelbildblogartikelpraxisrech.png
-  focal_point: Smart
-  preview_only: false
+  - daria-vogel
+
+tags:
+  - PartComp
+
+categories:
+  - PartComp
 ---
+
 Mit einer durch künstlichen Intelligenz unterstützte Software befreundet sein? Eine KI-unterstützte Technologie als Liebespartner? Oder sogar durch KI-unterstützte Bürgerpartizipation?
 
 Für manche scheint der Gedanke noch utopisch zu sein, jedoch ermöglicht zum Beispiel die App Replika Nutzer:innen eine:n beste:n Freund:in mithilfe von KI zu erstellen, mit dem:der sie chatten, sich unterhalten und über Hobbies austauschen können. *“The AI companion who cares”* ist der Slogan der App. Diese KI interagiert auf menschliche Weise mit den Nutzer:innen. Sie lernt aus Verhaltensweisen, Unterhaltungen und Datensätzen zu bestimmten Hobbies oder Themen, die der:die Nutzer:in auswählen kann. Die KI wird als animierter menschlicher Avatar dargestellt, den der:die Nutzer:in an ihre Vorlieben anpassen kann.\
