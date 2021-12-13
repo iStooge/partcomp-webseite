@@ -3,6 +3,10 @@ title: "Workshop: Gemeinsam Gemeinsam – Eine Zusammenfassung"
 date: 2021-12-13T13:19:35.167Z
 draft: false
 featured: false
+tags:
+  - PartComp
+categories:
+  - PartComp
 image:
   filename: screenshot-2021-11-24-at-18.42.40.png
   focal_point: Smart
