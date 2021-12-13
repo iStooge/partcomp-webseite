@@ -1,11 +1,5 @@
 ---
-summary: Mit dem Participation Companion entsteht ein digitales Assistenzsystem,
-  ähnlich einem Chatbot, das Bürger:innen individuell in ihren
-  Partizipationsaktivitäten unterstützt und sich dabei, gleich einem Gefährten
-  (Companion) kooperativ genau auf ihre Bedürfnisse einstellt. Bürger:innen
-  können dem Participation Companion Fragen stellen, wenn sie Hilfe brauchen,
-  aber der Participation Companion wird auch von selbst aktiv und schlägt seinem
-  menschlichen Partner beispielsweise Partizipationsmöglichkeiten vor.
+summary: ""
 draft: false
 authors:
   - daria-vogel
