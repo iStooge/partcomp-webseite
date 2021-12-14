@@ -8,7 +8,7 @@ tags:
 categories:
   - PartComp
 image:
-  filename: screenshot-2021-11-24-at-18.42.40.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   alt_text: Titelbild Workshop Gemeinsam Gemeinsam Abbildung des Miroboards mit
