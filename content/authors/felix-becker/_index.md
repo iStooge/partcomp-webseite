@@ -18,14 +18,17 @@ organizations:
     url: "https://www.tu-braunschweig.de/wi2/team/becker"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ich forsche zur digitalen Partizipation.
+bio: Meine Forschung behandelt das Design digitaler Unterstützung für die Smart Participation und die Integration von Stakeholdern in den Designprozess.
 
 # List each interest with a dash
 interests:
-  - Partizipation
-  - Digital unterstützte Zusammenarbeit
-  - Postdigitalismus
+  - Smart Participation
+  - Digital Collaboration
+  - Human Centered Design
+  - Design Thinking
+  - Design Science Research
   - Action Design Research
+  - Participatory Design
 
 education:
   courses:
@@ -47,6 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:felix.becker@tu-braunschweig.de # For a direct email link, use "mailto:test@example.org".
+  - icon: fa-linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/felix-becker-87a797224/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=ErLfPkQAAAAJ&hl=de
@@ -73,8 +79,8 @@ highlight_name: false
 user_groups:
    - TU Braunschweig
 ---
+# Meine Forschung
 
-Die grundlegenden Fragen, die ich beantworten möchte sind:
+Die digitale Transformation erlaubt es Menschen einfacher als je zuvor an der Gestaltung ihrer Umwelt mitzuwirken. Zusammen mit IT wird daraus das Konzept der *Smart Participation*.
 
-- Was bringt Menschen dazu sich freiwillig für etwas einzusetzen, dass auch Anderen etwas bringt?
-- Wie kann eine digitale Partizipationsunterstützung gestaltet werden?
+In meiner Forschung beschäftigt ich mich mit der Gestaltung von digitaler Unterstützung für die Smart Participation. Diese zeichnet sich durch ihren kollaborativen und auf Aspekte der Bottom-Up-Partizipation aufbauende Struktur aus. Meine Arbeit stützt sich auf das Forschungsparadigma des Design Science Research, welchem die wissenschaftlich fundierte Gestaltung von Informationssystemen zugrunde liegt. Dabei wende ich kollaborative und partizipative Forschungsmethoden an und entwickele bestehende Vorgehensmodelle hin zu mehr Stakeholder-Integration weiter.
