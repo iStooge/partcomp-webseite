@@ -14,6 +14,7 @@ image:
   filename: auswertung-participation-companion-workshop-übersicht.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Titelbild: Phasen des Workshops"
 ---
 Im Rahmen eines digitalen Design Thinking Workshops haben wir uns damit befasst, wie ein virtueller Companion dabei unterstützen kann, gute und zielgerichtete Partizipation zu fördern. Im Workshop wurde insbesondere untersucht, welche Anforderungen und Bedürfnisse potenzielle Nutzer:innen bezüglich eines virtuellen Companion zur Unterstützung und Förderung von Partizipation haben und wie diese umgesetzt werden können. Dazu wurde zunächst geklärt, was Menschen unter Partizipation verstehen, welche Gründe es für Partizipation gibt und wie Menschen zum Partizipieren motiviert werden können. Auf Basis der 6 Design Thinking Phasen (Empathize, Define, Ideate, Prototype, Test) sind so zwei Ideen für einen Participation Companion entstanden.
 
