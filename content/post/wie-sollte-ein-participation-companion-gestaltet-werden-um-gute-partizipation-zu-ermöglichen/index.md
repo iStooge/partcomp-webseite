@@ -4,8 +4,7 @@ title: Wie sollte ein Participation Companion gestaltet werden, um gute
 date: 2022-05-11T12:41:32.429Z
 draft: false
 featured: false
-authors:
-  - Varinia Wittholz
+authors: []
 tags:
   - PartComp
 categories:
