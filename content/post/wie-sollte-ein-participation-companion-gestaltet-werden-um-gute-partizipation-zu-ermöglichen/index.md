@@ -5,6 +5,10 @@ date: 2022-05-11T12:41:32.429Z
 draft: false
 featured: false
 authors: []
+tags:
+  - PartComp
+categories:
+  - PartComp
 image:
   filename: auswertung-participation-companion-workshop-übersicht.jpg
   focal_point: Smart
