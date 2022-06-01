@@ -1,7 +1,7 @@
 ---
 title: Varinia Wittholz
 role: Wissenschaftliche Mitarbeiterin
-avatar_filename: quadrat.jpg
+avatar_filename: img_7364.jpg
 social:
   - display:
       header: false
