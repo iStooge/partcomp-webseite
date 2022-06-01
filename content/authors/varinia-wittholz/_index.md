@@ -18,3 +18,6 @@ education:
       year: 2021
 superuser: false
 ---
+### Über mich
+
+Während meines Studiums konnte ich bereits einiges über die Forschungsbereiche der Wirtschaftsinformatik lernen. Aktuell beschäftige ich mich nun mit dem "Participation Companion" als digitale Unterstützung für gute und zielgerichtete Partizipation.
