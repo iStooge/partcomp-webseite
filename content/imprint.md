@@ -27,8 +27,8 @@ Technische Universität Braunschweig
 Institut für Wirtschaftsinformatik, Abteilung Informationsmanagement
 Mühlenpfordtstr. 23
 38106 Braunschweig
-Tel.: +49 (0) 531 391 3139
-E-Mail: r.schlimbach@tu-bs.de
+Tel.: +49 (0) 531 391 3130
+E-Mail: t.strohmann@tu-braunschweig.de
 
 ## Rechtsform
 
